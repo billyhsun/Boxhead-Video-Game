@@ -6,13 +6,16 @@ This is the final project for the grade 11 computer programming course, which in
 
 Home page:
 
-![alt text](http://url/to/img.png)
+![alt text](game1.png)
+
 Selection page:
 
-![alt text](http://url/to/img.png)
+![alt text](game2.png)
+
 Gameplay screen:
 
-![alt text](http://url/to/img.png)
+![alt text](game3.png)
+
 Game over:
 
-![alt text](http://url/to/img.png)
+![alt text](game4.png)
