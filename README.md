@@ -4,18 +4,18 @@ This is the final project for the grade 11 computer programming course, which in
 
 ### Screenshots
 
-Home page:
+#### Home page
 
 ![Alt text](/game1.png?raw=true "home page")
 
-Selection page:
+#### Selection page
 
 ![Alt text](/game2.png?raw=true "selection")
 
-Gameplay screen:
+#### Gameplay screen
 
 ![Alt text](/game3.png?raw=true "gameplay")
 
-Game over:
+#### Game over
 
 ![Alt text](/game4.png?raw=true "gameover")
