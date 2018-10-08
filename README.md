@@ -6,16 +6,16 @@ This is the final project for the grade 11 computer programming course, which in
 
 Home page:
 
-![My image](billyhsun.github.com/repository/billyhsun.github.io/game1.png)
+![Alt text](/game1.png?raw=true "home page")
 
 Selection page:
 
-![My image](billyhsun.github.com/repository/billyhsun.github.io/game2.png)
+![Alt text](/game2.png?raw=true "selection")
 
 Gameplay screen:
 
-![My image](billyhsun.github.com/repository/billyhsun.github.io/game3.png)
+![Alt text](/game3.png?raw=true "gameplay")
 
 Game over:
 
-![My image](billyhsun.github.com/repository/billyhsun.github.io/game4.png)
+![Alt text](/game4.png?raw=true "gameover")
